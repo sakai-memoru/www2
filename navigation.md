@@ -1,8 +1,11 @@
 ﻿[gimmick:theme](github)
-[gimmick:themechooser](Choose theme)
 # Memoru
 
-[TOP](index.md)
+[TOP](README.md)
 
 [About](about.md)
+
+[K6](K6_Innovation_Design/README.md)
+
+[gimmick:themechooser](Choose theme)
 

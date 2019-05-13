@@ -1,6 +1,5 @@
-# memoru's page
+# Index
 
-## link
-- [README.md](./README.md)
-
+## overvies
+- memoru's pages for lectures on smart SE.
 
