@@ -1,5 +1,5 @@
 # Index
 
 ## overvies
-- memoru's pages for lectures on smart SE.
+- memoru's pages for 19b.
 
