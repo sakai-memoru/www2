@@ -1,19 +1,12 @@
-# Smart SE 19a 
+# WWW2 of sakai-memoru's Wiki
 
 ## overview
-- logs
+- Publish wiki or drafting
 
-## logs
+## GitHub Pages
+- https://sakai-memoru.github.io/www2/
 
-### ** Elements
+## www2.wiki
+- https://github.com/sakai-memoru/www2/wiki
 
-- [SUMMARY](SUMMARY.md)
-- [NAVIGATION](navigation.md)
-
-### ** operations
-- [articles/1905-initial-operations.md](articles/1905-initial-operations.md)
-
-
-
-// --- end of README --- //
-
+// ---- end
