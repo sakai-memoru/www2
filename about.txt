@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-07T10:55:40+09:00
+
+====== about ======
+Created Friday 07 June 2019
+
+https://i.gyazo.com/e2282ee0a06fedfb031193c1a9e5942c.png
+
+
+[![Image from Gyazo](https://i.gyazo.com/e2282ee0a06fedfb031193c1a9e5942c.png)](https://gyazo.com/e2282ee0a06fedfb031193c1a9e5942c)

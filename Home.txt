@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-07T10:55:24+09:00
+
+====== Home ======
+Created Friday 07 June 2019
+
+## sakai
+
+[[[about]]]
+
+{{~\OneDrive\Pictures\06-06-2019 07-44 Office Lens (1).jpg}}
+
